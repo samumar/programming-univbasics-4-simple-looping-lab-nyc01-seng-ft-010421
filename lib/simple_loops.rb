@@ -27,7 +27,7 @@ end
 def return_string_array(array)
   count = 0 
   while count < array.length do
-    p array[count]
+    print array[count]
     count += 1 
   end
 end
