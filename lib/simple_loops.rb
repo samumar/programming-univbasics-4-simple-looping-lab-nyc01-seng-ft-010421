@@ -13,3 +13,5 @@ def loop_message_n_times(message, limit)
   while count < limit do
     puts message
     count += 1
+  end
+end
